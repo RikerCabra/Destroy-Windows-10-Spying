@@ -903,7 +903,7 @@ namespace DWS_Lite
             // About_Info
             // 
             this.About_Info.BackColor = System.Drawing.Color.Transparent;
-            this.About_Info.Font = new System.Drawing.Font("Consolas", 12F);
+            this.About_Info.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.About_Info.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
             this.About_Info.Location = new System.Drawing.Point(6, 36);
             this.About_Info.Margin = new System.Windows.Forms.Padding(3);
